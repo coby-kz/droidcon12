@@ -1,4 +1,6 @@
-droidcon12
-==========
+Droidcon 2012 Demo application
+==============================
 
-A demo application for Droidcon 2012
+This is a demo for "Building your app for multiple app stores" talk at Droidcon 2012. bit.ly/WLhfoE
+
+We're currently working on polishing the demo. It will be pushed here soon.
